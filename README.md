@@ -15,6 +15,13 @@ Liste von Bildportalen, die Bilder für die kommerzielle Nutzung kostenlos zur V
 * https://pxhere.com
 * https://commons.wikimedia.org
 * https://www.dreamstime.com/free-photos
+* https://gratisography.com
+* https://morguefile.com
+* https://picjumbo.com
+* https://pikwizard.com
+* https://www.rawpixel.com
+* https://www.reshot.com
+* https://www.stockvault.net
 
 ## Vecotr
 * https://www.freepik.com/free-vectors/graphics
