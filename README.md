@@ -1,4 +1,4 @@
-# ImagesFree2Use
+# Images for free use
 List of image portals which provide images free for commercial use. Feel free to contribute.  
 免费为商业用途提供图片的图片门户清单； 请随意贡献。  
 Список графических порталов, предоставляющих изображения бесплатно для коммерческого использования. Не стесняйтесь вносить свой вклад.  
