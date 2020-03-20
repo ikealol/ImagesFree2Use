@@ -11,6 +11,7 @@ Liste von Bildportalen, die Bilder für die kommerzielle Nutzung kostenlos zur V
 * https://pixabay.com
 * https://www.pexels.com
 * https://unsplash.com
+* https://isorepublic.com
 * https://pixnio.com
 * https://pxhere.com
 * https://commons.wikimedia.org
@@ -22,14 +23,18 @@ Liste von Bildportalen, die Bilder für die kommerzielle Nutzung kostenlos zur V
 * https://www.rawpixel.com
 * https://www.reshot.com
 * https://www.stockvault.net
+* https://stocksnap.io
+* https://kaboompics.com
+* https://www.foodiesfeed.com
+
 
 ## Vecotr
 * https://www.freepik.com/free-vectors/graphics
-* https://www.vector4free.com/
+* https://www.vector4free.com
 
 ## Icons
-* https://www.iconfinder.com/
-* https://icon-icons.com/
+* https://www.iconfinder.com
+* https://icon-icons.com
 
 ## Videos
-* https://pixabay.com/videos/
+* https://pixabay.com/videos
