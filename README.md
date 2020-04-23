@@ -29,7 +29,7 @@ Liste von Bildportalen, die Bilder für die kommerzielle Nutzung kostenlos zur V
 * https://www.lifeofpix.com/
 
 
-## Vecotr
+## Vector
 * https://www.freepik.com/free-vectors/graphics
 * https://www.vector4free.com
 
