@@ -26,6 +26,7 @@ Liste von Bildportalen, die Bilder für die kommerzielle Nutzung kostenlos zur V
 * https://stocksnap.io
 * https://kaboompics.com
 * https://www.foodiesfeed.com
+* https://www.lifeofpix.com/
 
 
 ## Vecotr
@@ -38,3 +39,5 @@ Liste von Bildportalen, die Bilder für die kommerzielle Nutzung kostenlos zur V
 
 ## Videos
 * https://pixabay.com/videos
+* https://www.videvo.net/stock-video-footage/license/royalty-free/freeclips/yes/
+* https://lifeofvids.com/
