@@ -27,6 +27,7 @@ Liste von Bildportalen, die Bilder für die kommerzielle Nutzung kostenlos zur V
 * https://kaboompics.com
 * https://www.foodiesfeed.com
 * https://www.lifeofpix.com/
+* https://www.mediathek.admin.ch/
 
 
 ## Vector
